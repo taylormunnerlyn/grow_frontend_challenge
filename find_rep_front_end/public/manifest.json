@@ -1,0 +1,11 @@
+{
+  "short_name": "Grow Front End",
+  "name": "Grow Front End Challenge",
+  "icons": [
+    
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

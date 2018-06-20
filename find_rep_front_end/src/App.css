@@ -1,0 +1,56 @@
+.table>thead>tr>th {
+  border-bottom: 0px;
+}
+.rep-list-item {
+  cursor: pointer;
+}
+
+.rep-list-item a {
+  text-decoration: none;
+}
+
+.app-main-container {
+  padding: 30px;
+}
+
+.app-main-container h1 {
+  color: rgb(82, 157, 252);
+  margin-bottom: 50px;
+}
+
+.rep-list-blue-h2-text {
+  color: rgb(82, 157, 252);
+}
+
+.rep-detail-item {
+  margin-bottom: 10px;
+}
+
+.nav-select {
+  margin-right: 20px;
+}
+
+/* .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
